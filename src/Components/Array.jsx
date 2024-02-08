@@ -1,4 +1,4 @@
-import imge1 from "../src/images/image 12.png";
+import imge1 from "../images/image 12.png";
 const Array =
 [
     {
