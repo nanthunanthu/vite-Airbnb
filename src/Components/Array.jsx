@@ -3,10 +3,10 @@ const Array =
 [
     {
         img: imge1,
-         img1:"../src/images/Star 1.png",
+         img1:"../images/Star 1.png",
           num:5.0, 
           num1:6,
-          city:"USA",
+          city:"U",
            line:"Life lessons with Katie Zaferes",
             line1:"From $136",
             line2:"/ person",
