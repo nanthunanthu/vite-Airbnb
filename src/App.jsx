@@ -4,6 +4,7 @@ import Header from "./Components/Header";
 import Card from "./Components/card";
 import Array from "./Components/Array";
 
+
 function App() {
   const arr1 = Array.map((data)=>{
     return <Card 

@@ -1,8 +1,8 @@
-
+import imge1 from "../src/images/image 12.png";
 const Array =
 [
     {
-        img:"../src/images/image 12.png",
+        img: imge1,
          img1:"../src/images/Star 1.png",
           num:5.0, 
           num1:6,
