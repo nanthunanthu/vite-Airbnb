@@ -1,12 +1,12 @@
-import imge1 from "../images/image 12.png";
+
 const Array =
 [
     {
-        img: imge1,
-         img1:"../images/Star 1.png",
+        img:"../src/images/image 12.png",
+         img1:"../src/images/Star 1.png",
           num:5.0, 
           num1:6,
-          city:"U",
+          city:"USA",
            line:"Life lessons with Katie Zaferes",
             line1:"From $136",
             line2:"/ person",
