@@ -6,7 +6,7 @@ const Array =
          img1:"../src/images/Star 1.png",
           num:5.0, 
           num1:6,
-          city:"USA",
+          city:"u",
            line:"Life lessons with Katie Zaferes",
             line1:"From $136",
             line2:"/ person",
